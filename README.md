@@ -1,2 +1,3 @@
 # PY4E_exercises
-To store and update exercise codes.
+
+Here I'm trying to use GitHub to store my codes and see its evolution through time.
